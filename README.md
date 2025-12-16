@@ -13,10 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/Nathalie Döberl" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/nats.k_97" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">Currently Student @ FH Hagenberg | Design of Digital Products
-</h3>**
-
-**<h3 align="left">Rapid Fire</h3>**
+ **<h3 align="left">Currently Student @ FH Hagenberg | Design of Digital Products</h3>**
 
 - 💼 I'm currently working on: **Getting my Bachelor's degree in Science of Engineering**
 - 🌱 I'm currently learning: **Vue.js, Quasar, Java, Product Management, UX/UI - Design**
