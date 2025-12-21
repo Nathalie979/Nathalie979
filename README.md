@@ -17,7 +17,7 @@
 
 - 💼 I'm currently working on: **Getting my Bachelor's degree in Science of Engineering**
 - 🌱 I'm currently learning: **Vue.js, Quasar, Java, Product Management, UX/UI - Design**
-- 💬 Ask me about: **My cats and hobbies**
+- 💬 Ask me about: **My cats and favourite video games**
 
  **<h3 align="left">Skills</h3>**
 
