@@ -1,4 +1,4 @@
-![Hi, my name is Nathalie Döberl („• ᴗ •„)/](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/Websites-Software-Programmers-Thumbnails_1200x558.png?w=1024)
+![Hi, my name is Nathalie Döberl („• ᴗ •„)/]
 
 <div id="toc">
   <ul align="center" style="list-style: none">
