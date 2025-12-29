@@ -1,5 +1,3 @@
-![Hi, my name is Nathalie Döberl („• ᴗ •„)/]
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
