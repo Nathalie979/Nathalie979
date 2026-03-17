@@ -14,7 +14,7 @@
  **<h3 align="left">Currently Student @ FH Hagenberg | Design of Digital Products</h3>**
 
 - 💼 I'm currently working on: **Getting my Bachelor's degree in Science of Engineering**
-- 🌱 I'm currently learning: **Vue.js, Quasar, Java, Product Management, UX/UI - Design**
+- 🌱 I'm currently learning: **Flutter & Dart, Java, Product Management, Human Centered Design, Human Factors in AI**
 - 💬 Ask me about: **My cats and favourite video games**
 
  **<h3 align="left">Skills</h3>**
